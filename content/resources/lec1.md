@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains lecture notes introducing archeology through key
   terms, concepts, and characters, and a pop quiz on global chronology.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-986-the-human-past-introduction-to-archaeology-fall-2006/0e94b4b742d29ed928841becad5a31ac_lec1.pdf
+file: /media/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/0e94b4b742d29ed928841becad5a31ac_lec1.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec1.pdf
 uid: 0e94b4b7-42d2-9ed9-2884-1becad5a31ac

@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: e9b9b8d9-2aa1-86f0-d6f3-97a1791bb6a2
 ---
@@ -571,4 +574,4 @@ Wynn, T., and F. Coolidge. "The Expert Neandertal Mind." _Journal of Human Evolu
 
 Molleson, Theya. "The Eloquent Bones of Abu Hureyra." _Scientific American_ 271, no. 4 (1994): 70-75.
 
-Tiesler, Vera. "Head Shaping and Dental Decoration Among the Ancient Maya." Proceedings of the 64th meeting of the Society of American Archaeology, Chicago 1999.
+Tiesler, Vera. "Head Shaping and Dental Decoration Among the Ancient Maya." Proceedings of the 64{{< sup "th" >}} meeting of the Society of American Archaeology, Chicago 1999.

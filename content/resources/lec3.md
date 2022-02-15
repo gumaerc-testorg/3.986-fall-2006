@@ -4,8 +4,13 @@ description: This resource contains lecture notes on the three most recent epoch
   of the Cenozoic Era, early hominids, the prehistoric culture-stratigraphic nomenclatural
   framework, and earlier archaeological ?cultures? (technocomplexes or industrial
   complexes) and their technological basis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/3-986-the-human-past-introduction-to-archaeology-fall-2006/75bcc4f2400ad4d8dfea5491649b7314_lec3.pdf
+file: /media/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/75bcc4f2400ad4d8dfea5491649b7314_lec3.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lec3.pdf
 uid: 75bcc4f2-400a-d4d8-dfea-5491649b7314

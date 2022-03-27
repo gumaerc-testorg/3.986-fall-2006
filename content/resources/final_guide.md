@@ -9,6 +9,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: ddfc6b0f-d4c5-0853-011e-5d36c9edb59c
 resourcetype: Document
 title: final_guide.pdf
 uid: 2963adac-3c9b-b35a-7d93-428ff0d64215

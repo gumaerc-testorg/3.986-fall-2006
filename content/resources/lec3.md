@@ -11,6 +11,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 729bc5d3-3929-51ab-fbce-4e57838fb743
 resourcetype: Document
 title: lec3.pdf
 uid: 75bcc4f2-400a-d4d8-dfea-5491649b7314

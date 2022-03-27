@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: a0803e92-b199-f46f-1183-d88cb5349dd8
 resourcetype: Document
 title: lab9_adrar_abu.pdf
 uid: 17f5cbaa-8786-615d-e48d-ab326d8d9f65

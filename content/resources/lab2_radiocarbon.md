@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: a0803e92-b199-f46f-1183-d88cb5349dd8
 resourcetype: Document
 title: lab2_radiocarbon.pdf
 uid: 75cf94c9-94e0-379b-d347-0a4e1f6099fd

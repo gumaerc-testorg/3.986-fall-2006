@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides an overview, class requirements and mechanics,
+  required text, grading criteria, and a calendar of topics and key dates for the
+  course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

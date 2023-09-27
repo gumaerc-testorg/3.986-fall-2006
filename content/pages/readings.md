@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information about recommended readings for the
+  course, including the course text, a table of readings associated with the lectures,
+  and a few "extraneous" background readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -7,7 +10,7 @@ title: Readings
 uid: e9b9b8d9-2aa1-86f0-d6f3-97a1791bb6a2
 ---
 
-The following table lists readings associated with the lectures, along with a few "extraneous" background readings. Some additional readings are also given on the [labs]({{< baseurl >}}/pages/labs) and [assignments]({{< baseurl >}}/pages/assignments) pages.
+The following table lists readings associated with the lectures, along with a few "extraneous" background readings. Some additional readings are also given on the {{% resource_link a0803e92-b199-f46f-1183-d88cb5349dd8 "labs" %}} and {{% resource_link e87c47c0-7747-24ba-051b-efbc9279ef0b "assignments" %}} pages.
 
 Readings for this class fall into two categories, 1) required readings that provide a basic framework for and amplification of the lecture materials, and 2) optional supplemental readings which provide direct exposure to the primary specialist research that archaeologists undertake or utilize in their research. The required readings include a textbook, a modest number of journal articles/papers and a larger number of abstracts from scientific papers.
 
@@ -23,13 +26,13 @@ Unit Abstracts and Notes (with Citations)
 
 These files are referenced in the following table. The abstracts are required readings, while reading the complete papers are optional.
 
-Unit 1 - Early Prehistory ([PDF]({{< baseurl >}}/resources/unit1))
+Unit 1 - Early Prehistory ({{% resource_link 5119d24a-0493-cbad-01c3-a896fa7d17c0 "PDF" %}})
 
-Unit 2 - The Near East Case Study ([PDF]({{< baseurl >}}/resources/unit2))
+Unit 2 - The Near East Case Study ({{% resource_link f0a4fcad-7a14-1c08-2564-58abbbbfa07d "PDF" %}})
 
-Unit 3 - The Mesoamerican Case Study ([PDF]({{< baseurl >}}/resources/unit3))
+Unit 3 - The Mesoamerican Case Study ({{% resource_link 2294db22-b494-a5d7-a156-61a7195d1fc7 "PDF" %}})
 
-Unit 4 - Societal Collapse ([PDF]({{< baseurl >}}/resources/unit4))
+Unit 4 - Societal Collapse ({{% resource_link de75f0c3-a798-a093-c5ff-4ce1e7f6185c "PDF" %}})
 
 Assigned Readings for Lectures
 ------------------------------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The lab section contains a list of lab topics and supporting resources
+  for the course.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -55,7 +57,7 @@ Chronology and Dating Techniques (cont.)
 
 ### Required Reading
 
-Radiocarbon Handout ([PDF]({{< baseurl >}}/resources/lab2_radiocarbon))
+Radiocarbon Handout ({{% resource_link 75cf94c9-94e0-379b-d347-0a4e1f6099fd "PDF" %}})
 
 ### Optional Reading
 
@@ -77,9 +79,9 @@ Site Documentation - Map Reading, Site Location
 
 ### Required Readings
 
-Selected Notes ([PDF]({{< baseurl >}}/resources/lab3_reqd_readin))
+Selected Notes ({{% resource_link f72d5ae3-9fd4-eaa1-8add-12b4c845f766 "PDF" %}})
 
-USGS: The Universal Transverse Mercator (UTM) Grid ([PDF]({{< baseurl >}}/resources/lab3_utmsheet))
+USGS: The Universal Transverse Mercator (UTM) Grid ({{% resource_link bc51d2ee-cfb5-bf0b-17df-f93d061f0047 "PDF" %}})
 
 [Geomagnetism: Long Term Movement of the North Magnetic Pole](http://www.ngdc.noaa.gov/geomag/GeomagneticPoles.shtml)
 
@@ -92,7 +94,7 @@ USGS: The Universal Transverse Mercator (UTM) Grid ([PDF]({{< baseurl >}}/resour
 Lab4
 {{< tdclose >}}
 {{< tdopen >}}
-Site Documentation - Mapping ([PDF]({{< baseurl >}}/resources/lab4))
+Site Documentation - Mapping ({{% resource_link 79d3c391-ed74-eea2-9b86-2fc76b52e0e6 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -159,7 +161,7 @@ Ceramics Lab: Analysis of Ceramics as Materials
 
 ### Handouts
 
-Background on Adrar Abu; Preparation for Paper 2 ([PDF]({{< baseurl >}}/resources/lab9_adrar_abu))
+Background on Adrar Abu; Preparation for Paper 2 ({{% resource_link 17f5cbaa-8786-615d-e48d-ab326d8d9f65 "PDF" %}})
 
 
 {{< tdclose >}}

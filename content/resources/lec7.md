@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource contains lecture notes on the earliest stages of urbanization:
   Ubaid and Eridu, and urbanization and city states: Uruk, civilization and writing.'
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/44974723b1d3003a711a1c30c59f0fce_lec7.pdf
+file_size: 12801
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

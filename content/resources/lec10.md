@@ -4,6 +4,7 @@ description: 'This resource contains lecture notes on agricultural origins: the 
   from hunting and gathering to plant domestication and sedentary village life, Tehuacan
   and Oaxaca examples.'
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/bbb6b0b20e07b1bcff60df86a87cc18e_lec10.pdf
+file_size: 14688
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

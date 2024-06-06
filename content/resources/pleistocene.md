@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a synoptic overview of Pleistocene prehistory
   in the Old World.
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/ed86aa75a35e910f95c5f0d0c468df97_pleistocene.pdf
+file_size: 56311
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

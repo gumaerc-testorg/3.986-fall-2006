@@ -5,6 +5,7 @@ description: 'This resource contains lecture notes on urbanization and city stat
   interacting in the development of stratified society in the near east, and refocusing
   on the comparative theme: Eurasia - the Americas.'
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/1e8b3efbc2aa8960a42069fa7480a824_lec8.pdf
+file_size: 9079
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

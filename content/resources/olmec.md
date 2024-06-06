@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on recently discovered Olmec writing.
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/35db54493a3d2081a747654dc55f9038_olmec.pdf
+file_size: 17684
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

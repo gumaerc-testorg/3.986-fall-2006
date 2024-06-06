@@ -6,6 +6,7 @@ description: This resources containts lab notes in preparation for the Adrar Abu
   interpreting sediments and soils as evidence of past climates, and other not so
   useful trivia.
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/17f5cbaa8786615de48dab326d8d9f65_lab9_adrar_abu.pdf
+file_size: 26277
 file_type: application/pdf
 learning_resource_types:
 - Labs

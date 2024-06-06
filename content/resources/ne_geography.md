@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains a map of the major topographic units in the Middle
   East.
 file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/9a3fdc412da4ea896ff2738da6e9e92e_ne_geography.pdf
+file_size: 145726
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

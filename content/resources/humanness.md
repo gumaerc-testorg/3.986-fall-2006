@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource explores questions about what make us ?human? and compares
   physical and behavioral traits of modern humans to that of modern chimps.
-file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/f54e99b88eda9a66e2589bff00ff8e08_humanness.pdf
+file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/f54e99b88eda9a66e2589bff00ff8e08_humanness.pdf
 file_size: 16186
 file_type: application/pdf
 learning_resource_types:

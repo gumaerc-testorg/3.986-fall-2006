@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains a fact sheet on the Universal Transverse Mercator
   (UTM) grid, prepared by the United States Geological Survey.
-file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/bc51d2eecfb5bf0b17dff93d061f0047_lab3_utmsheet.pdf
+file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/bc51d2eecfb5bf0b17dff93d061f0047_lab3_utmsheet.pdf
 file_size: 141371
 file_type: application/pdf
 learning_resource_types:

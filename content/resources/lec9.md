@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on populating of the New World,
   earliest archaeology, and geographic and cultural background of Mesoamerica.
-file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/574101c646e625e1e1af5c1225603ca5_lec9.pdf
+file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/574101c646e625e1e1af5c1225603ca5_lec9.pdf
 file_size: 14788
 file_type: application/pdf
 learning_resource_types:

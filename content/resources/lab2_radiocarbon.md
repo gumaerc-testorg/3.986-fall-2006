@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lab notes on radiocarbon dating.
-file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/75cf94c994e0379bd3470a4e1f6099fd_lab2_radiocarbon.pdf
+file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/75cf94c994e0379bd3470a4e1f6099fd_lab2_radiocarbon.pdf
 file_size: 41720
 file_type: application/pdf
 learning_resource_types:

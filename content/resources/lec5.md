@@ -5,7 +5,7 @@ description: 'This resource contains lecture notes on theoretical perspectives; 
   and the evolution of social complexity in the near east, pre-Neolithic adaptations
   and the Natufian in the near east, and domestication: recognition, processes, and
   impact.'
-file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/1c1dc1240d57bb99ee637fe03fba18c2_lec5.pdf
+file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/1c1dc1240d57bb99ee637fe03fba18c2_lec5.pdf
 file_size: 2225874
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on the classification of social
   organization.
-file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/c134a4a0333a278976db4e868f4f11c7_social_org.pdf
+file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/c134a4a0333a278976db4e868f4f11c7_social_org.pdf
 file_size: 59344
 file_type: application/pdf
 learning_resource_types:

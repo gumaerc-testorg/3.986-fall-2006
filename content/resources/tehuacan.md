@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture notes on the Tehuac?n valley cultural
   sequence.
-file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/b85c0b6a00543886aff1e2714389574a_tehuacan.pdf
+file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/b85c0b6a00543886aff1e2714389574a_tehuacan.pdf
 file_size: 66125
 file_type: application/pdf
 learning_resource_types:

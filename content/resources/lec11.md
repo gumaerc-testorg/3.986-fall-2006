@@ -3,7 +3,7 @@ content_type: resource
 description: 'This resource contains lectures notes on Mesoamerica: emergence of early
   lowland civilization, cultural uniformity of early Mesoamerican civilizations, and
   the Olmec.'
-file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/45566a3ef98f042d4b8518821ce643a9_lec11.pdf
+file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/45566a3ef98f042d4b8518821ce643a9_lec11.pdf
 file_size: 13137
 file_type: application/pdf
 learning_resource_types:

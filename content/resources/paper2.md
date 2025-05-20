@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the topic for the second writing assignment, reference
   text, advice, and optional supplemental reading.
-file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/95323ab49e7078414cbe9fabc233a0c4_paper2.pdf
+file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/95323ab49e7078414cbe9fabc233a0c4_paper2.pdf
 file_size: 179426
 file_type: application/pdf
 learning_resource_types:

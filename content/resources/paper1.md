@@ -3,7 +3,7 @@ content_type: resource
 description: This resource contains the topic for the first writing assignment, background
   information, advice, and guidelines for referencing archaeological/anthropological
   papers.
-file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/acd7763e0ac784d9b343a575f29c6996_paper1.pdf
+file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/acd7763e0ac784d9b343a575f29c6996_paper1.pdf
 file_size: 418075
 file_type: application/pdf
 learning_resource_types:

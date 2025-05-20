@@ -8,7 +8,7 @@ description: Around Chaco Canyon, New Mexico, NASA's Thermal Infrared Multispect
   any topographic obstruction, built to a width of 20 feet or more, and constructed
   by people who did not even employ beast of burden in their lives? (Image courtesy
   of NASA.)
-file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/f1f266decff358637e1b338dbe2d8c75_chp_chaco_roads.jpg
+file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/f1f266decff358637e1b338dbe2d8c75_chp_chaco_roads.jpg
 file_size: 29444
 file_type: image/jpeg
 image_metadata:

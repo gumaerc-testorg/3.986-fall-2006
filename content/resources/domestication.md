@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains notes on the domestication process.
-file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/62a3dc36460d07484cee152bdfcbf5ac_domestication.pdf
+file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/62a3dc36460d07484cee152bdfcbf5ac_domestication.pdf
 file_size: 37083
 file_type: application/pdf
 learning_resource_types:

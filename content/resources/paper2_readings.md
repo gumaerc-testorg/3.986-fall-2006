@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains additional information on the background and development
   on the region.
-file: /courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/2b14a8722e86c75b4e0fa8a6bdda3711_paper2_readings.pdf
+file: /ol-ocw-studio-app/courses/3-986-the-human-past-introduction-to-archaeology-fall-2006/2b14a8722e86c75b4e0fa8a6bdda3711_paper2_readings.pdf
 file_size: 45983
 file_type: application/pdf
 learning_resource_types:
